@@ -46,6 +46,7 @@ The NBR, dNBR, RdNBR and RBR were calcuated for all fires. A threshold was imple
 
 <h3>Comparison of GlobFire, EFFIS, and UniFireS</h3>
 A visual review of the fire ID23749235 shapefile from GlobFire, EFFIS, and UniFireS can be seen below. 
+
 ![comparisoneffisglobuni](https://user-images.githubusercontent.com/122684788/212548373-66cb4356-05a3-411d-9f88-c7b97da18621.png)
 
 <h3>Finalized Dataset</h3>
@@ -53,16 +54,16 @@ This dataset contains 4,081 fires from six major forest biomes and covers 13 dif
 
 ![Screenshot (3)](https://user-images.githubusercontent.com/122684788/212548770-e9911aef-d919-462f-aa30-2050e649a0e0.png)
 
-Covering a total of 26,902,328.4ha of burnt area, the landcover distribution of this dataset: 
+<b>Covering a total of 26,902,328.4ha of burnt area, the landcover distribution of this dataset:  </b>
 
 
 ![image](https://user-images.githubusercontent.com/122684788/212548605-5a912cb1-3928-4cc2-bd3f-d35cd9e5851a.png)
 
-The burn indice distribution of this dataset:
+<b>The burn indice distribution of this dataset: </b>
 
 ![image](https://user-images.githubusercontent.com/122684788/212548619-ce4359de-3f73-48bd-b4f5-a6f763571af0.png)
 
 
-An overall understanding of the location of each fire and its burn index can be seen below:
+<b>An overall understanding of the location of each fire and its burn index can be seen below: </b>
 
 ![FiresByBiome](https://user-images.githubusercontent.com/122684788/212544467-9494f795-203b-4b40-86f5-76a1fbf286e7.png)
